@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name axp_pmic)(type Legacy)(uri ${KIPRJMOD}/symbols/axp_pmic.lib)(options "")(descr ""))
+)

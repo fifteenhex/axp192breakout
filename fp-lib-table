@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name USB-MICRO-MK5P-2)(type KiCad)(uri ${KIPRJMOD}/kicad/footprints/USB-MICRO-MK5P-2.pretty)(options "")(descr ""))
+)
